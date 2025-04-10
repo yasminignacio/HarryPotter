@@ -23,12 +23,15 @@ p{
 
   #inicio {
     background-color: #500202;
+    font-size: 30px;
     padding: 20px;
     border-bottom: 2px solid rgb(44, 7, 7);
+    text-align: center;
   }
 
 #harry {
   background-color: #500202;
+  font-size: 30px;
   padding: 20px;
   border-bottom: 2px solid rgb(36, 0, 0);
   text-align: center;
